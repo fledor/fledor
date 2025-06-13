@@ -3,7 +3,7 @@
 I'm Fedor Splitt, a student researcher with the [XplaiNLP](https://xplainlp.github.io/) team at TU Berlin,
 currently working on cross-lingual and multilingual intent recognition in conversational XAI systems.
 
-At the moment I'm developing a small planning poker [tool](https://planningpoker.fun) as well
+I recently co-developed a small planning poker toll as well, [check it out!](https://planningpoker.fun)
 
 
 <!--
