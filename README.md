@@ -3,7 +3,9 @@
 I'm Fedor Splitt, a student researcher with the [XplaiNLP](https://xplainlp.github.io/) team at TU Berlin,
 currently working on counterfactuals and other topics in NLP and explainability.
 
+<!--
 I recently developed a small planning poker tool as well, [check it out!](https://planningpoker.fun)
+-->
 
 
 <!--
